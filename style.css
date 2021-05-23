@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+#achievements {
+    background-color: aquamarine;
+}
+
+#campuslife {
+    background-color: aqua;
+}
+
+#contactus {
+    background-color: blueviolet;
+}
+
+#home {
+    background-color: cornflowerblue;
+}
+#Welcome{
+    background-color: cornflowerblue;
+}
